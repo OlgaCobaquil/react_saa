@@ -1,0 +1,87 @@
+{
+  "comunicaciones": [
+    {
+      "codigoComunicacion": "CAALA-07-001",
+      "nombre": "Tortugas Marinas - RD",
+      "fecha": "05/09/2007",
+      "descripcion": "La Peticionaria HSI asevera que pese a la veda que para la captura y uso de las tortugas marinas ha establecido la ley dominicana, dicha veda depende de la realización de un inventario de productos derivados de tortuga de Carey el cual permitiría separar los productos realizados antes de la veda de aquellos que siendo producidos durante la vigencia de la veda son ilegales. Señala el peticionario que el Gobierno Dominicano al no realizar el inventario señalado elimina la protección que la ley otorga a las tortugas marinas con lo que incurre en incumplimiento legal ambiental.",
+      "peticionario": "Humane Society International",
+      "detalles": [
+        {
+          "fechaDetalle":"05/09/2007",
+          "tipoDetalle": "Nueva Comunicación",
+          "resumenDetalle": "Humane Society International presenta una comunicación ambiental a la Secretaría.",
+          "archivo":"Aqui va el link de archivo"
+        },
+
+        {
+          "fechaDetalle":"05/09/2007",
+          "tipoDetalle": "Acuse de recibo",
+          "resumenDetalle": "La Secretaría emite la nota que da acuse de recibo a la comunicación presentada e inicia su estudio y análisis.",
+          "archivo":"Aqui va el link de archivo"
+        },
+        {
+          "fechaDetalle":"30/08/2007",
+          "tipoDetalle": "Determinación 17.7.2",
+          "resumenDetalle": "La Secretaría determina que la Comunicación presentada no cumple con los requisitos del Artículo 17.7.2 del DR-CAFTA y suspende la revisión de la misma. (El Peticionario goza de un plazo de 30 días para ampliar su Comunicación).",
+          "archivo":"Aqui va el link de archivo"
+        },
+        {
+          "fechaDetalle":"01/10/2007",
+          "tipoDetalle": "Comunicación Revisada",
+          "resumenDetalle": "La Secretaría recibe una Comunicación revisada por parte del Peticionario con información adicional para su consideración.",
+          "archivo":"Aqui va el link de archivo"
+        },
+        {
+          "fechaDetalle":"05/12/2007",
+          "tipoDetalle": "Determinación 17.7.4",
+          "resumenDetalle": "La Secretaría determina que la Comunicación revisada satisface todos los requisitos del Artículo 17.7.2 del DR-CAFTA y basada en las consideraciones del Artículo 17.7.4, solicita formalmente una respuesta del gobierno de República Dominicana.",
+          "archivo":"Aqui va el link de archivo"
+        },
+        {
+          "fechaDetalle":"13/02/2008",
+          "tipoDetalle": "Respuesta de la Parte",
+          "resumenDetalle": "La República Dominicana remite su respuesta por correo electrónico. Posteriormente, el 3 de abril del mismo año, la Secretaría recibe formalmente la respuesta con varios anexos.",
+          "archivo":"Aqui va el link de archivo"
+        },
+        {
+          "fechaDetalle":"06/08/2008",
+          "tipoDetalle": "Determinación 17.8.1",
+          "resumenDetalle": "La Secretaría después de analizar tanto la Comunicación como la respuesta de República Dominicana, recomienda la elaboración de un expediente de hechos y lo notifica al Peticionario y al Consejo de Asuntos Ambientales.",
+          "archivo":"Aqui va el link de archivo"
+        },
+        {
+          "fechaDetalle":"05/11/2008",
+          "tipoDetalle": "Voto del Consejo - Preparación de Expediente de Hechos",
+          "resumenDetalle": "La Secretaría después de analizar tanto la Comunicación como la respuesta de República Dominicana, recomienda la elaboración de un expediente de hechos y lo notifica al Peticionario y al Consejo de Asuntos Ambientales.",
+          "archivo":"Aqui va el link de archivo"
+        },
+        {
+          "fechaDetalle":"16/12/2010",
+          "tipoDetalle": "Voto del Consejo - Publicación de Expediente de Hechos",
+          "resumenDetalle": "Estados Unidos vota por la publicación del Expediente de Hechos CAALA/01/007 'Tortugas Marinas - RD'. El Secretariado espera observaciones de las Partes sobre la exactitud del borrador de expediente de hechos. - ULTIMO DIA para recibir comentarios: 15 de octubre.",
+          "archivo":"Aqui va el link de archivo"
+        },
+        {
+          "fechaDetalle":"01/01/2011",
+          "tipoDetalle": "Publicación de Expediente de Hechos",
+          "resumenDetalle": "Se publica el Expediente de Hechos CAALA/01/007 'Tortugas Marinas - RD'",
+          "archivo":"Aqui va el link de archivo"
+        },
+        {
+          "fechaDetalle":"16/05/2011",
+          "tipoDetalle": "Ampliación de la respuesta de la Parte",
+          "resumenDetalle": "La República Dominicana envía vía correo electrónico una ampliación a su respuesta.",
+          "archivo":"Aqui va el link de archivo"
+        }
+      ]
+    },
+    {
+      "codigoComunicacion": "CAALA-08-001",
+      "nombre": "Extracción de Arena en las Canas Herrits - RD",
+      "fecha": "17/11/2008",
+      "descripcion": "La Peticionaria HSI asevera que pese a la veda que para la captura y uso de las tortugas marinas ha establecido la ley dominicana, dicha veda depende de la realización de un inventario de productos derivados de tortuga de Carey el cual permitiría separar los productos realizados antes de la veda de aquellos que siendo producidos durante la vigencia de la veda son ilegales. Señala el peticionario que el Gobierno Dominicano al no realizar el inventario señalado elimina la protección que la ley otorga a las tortugas marinas con lo que incurre en incumplimiento legal ambiental.",
+      "peticionario": "Humane Society International",
+    }
+  ]
+}
